@@ -23,6 +23,27 @@
 			<artifactId>hibernate-validator</artifactId>
 			<version>4.3.1.Final</version>
 		</dependency>
+		
+	   <dependency>
+	       <groupId>org.springframework</groupId>
+	       <artifactId>spring-core</artifactId>
+	   </dependency>
+	   <dependency>
+	       <groupId>org.springframework</groupId>
+	       <artifactId>spring-jdbc</artifactId>
+	   </dependency>
+	   <dependency>
+	       <groupId>org.springframework</groupId>
+	       <artifactId>spring-orm</artifactId>
+	   </dependency>
+	   <dependency>
+	       <groupId>org.springframework</groupId>
+	       <artifactId>spring-tx</artifactId>
+	   </dependency>
+	   <dependency>
+	       <groupId>org.springframework</groupId>
+	       <artifactId>spring-test</artifactId>
+	   </dependency>
 	</dependencies>
   
 </project>
